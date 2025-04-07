@@ -10,14 +10,23 @@ can be confident they'll be compensated for their work, and project owners can e
 
 Features:
 🔗 GitHub Integration – Connect and track issues & PRs
+
 💰 Bounty Creation – Post bounties with custom rewards
+
 🤖 Automated Payouts – Smart contracts handle rewards
+
 🧑‍💻 Contributor Profiles – Showcase your earned bounties
+
 🛡️ Verification System – Validate PRs before payout
+
 📜 On-chain Reputation – Public, verifiable developer history
+
 👛 Wallet Integration – MetaMask & Web3 wallet support
+
 🔍 Bounty Filtering – Search by repo, tags, or value
+
 📊 Status Tracking – Follow bounty progress end-to-end
+
 
 SrceenShots:
 ![Screenshot 2025-04-07 220207](https://github.com/user-attachments/assets/7a2b23a1-99a4-407a-8e45-b7dbe5780b70)
